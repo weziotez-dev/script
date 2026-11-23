@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/SygpcFoDSB/0"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Vt9Kficnrz/0"))()
 --[[
     Script Name: vdawng Script
     Game: Anime Adventures
